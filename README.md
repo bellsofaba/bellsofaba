@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellsofaba
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning Full Stack Web Development 
 - 📫 How to reach me ... bellsofaba@gmail.com
 
 <!---
