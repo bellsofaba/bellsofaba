@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bellsofaba
-- 👀 I’m interested in web development
-- 🌱 I’m also interested in Full Stack Web Development 
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m also interested in Blockchain Technology 
 - 📫 How to reach me ... bellsofaba@gmail.com
 
 <!---
