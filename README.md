@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <a href="https://twitter.com/bellsofaba" target="blank"><img src="https://img.shields.io/twitter/follow/bellsofaba?logo=twitter&style=for-the-badge" alt="bellsofaba" /></a> </p>
 
 - 🔭 I’m currently working on **Full stack web applications**
