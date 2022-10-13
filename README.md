@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3336E9&width=435&lines=Coding.+Debugging.+Repeat.+Snoring.)](https://git.io/typing-svg)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3336E9&width=435&lines=Coding.+Debugging.+Repeat.+Snoring." alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3336E9&width=435&lines=Coding.+Debugging.+Snoring.+Repeat." alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Jack</h1>
 <h3 align="center">A passionate full-stack developer</h3>
