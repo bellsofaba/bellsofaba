@@ -1,10 +1,8 @@
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222CE9&center=true&vCenter=true&width=438&lines=Coding.+Debugging.+Snoring.+Repeat.)](https://git.io/typing-svg)
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Coding.+Debugging.+Snoring.+Repeat.!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222CE9&center=true&vCenter=true&width=438&lines=Coding.+Debugging.+Snoring.+Repeat.)](https://git.io/typing-svg)
 </p>
+
 
 
 
