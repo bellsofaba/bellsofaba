@@ -54,3 +54,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bellsofaba&show_icons=true&locale=en" alt="bellsofaba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bellsofaba&" alt="bellsofaba" /></p>
+
+<p  align=center><img src='https://github.com/bellsofaba/bellsofaba/blob/master/github-metrics.svg'  alt='GitHub metrics'></p>
