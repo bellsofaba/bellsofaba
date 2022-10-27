@@ -60,7 +60,7 @@
   
 <tr>
 <td>Libraries & Frameworks I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'>  <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
 </tr>
 <tr>
 <td>Databases I Use</td>
