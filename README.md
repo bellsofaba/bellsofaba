@@ -54,8 +54,10 @@
 </tr>
 <tr>
 <td>Languages I Use</td>
-<td><img  src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg'  alt='html5'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'  alt='css3'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'  alt='javascript'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" height="30" /> <img  src='https://www.vectorlogo.zone/logos/python/python-icon.svg'  alt='python'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'  alt='c'  height='35'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'  alt='c++'  height='35'></td>
+<td><img  src='https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg'  alt='html5'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'  alt='css3'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'  alt='javascript'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" title="TypeScript" height="30" /> <img  src='https://www.vectorlogo.zone/logos/python/python-icon.svg'  alt='python'  height='30'>  </td>
+  
 </tr>
+  
 <tr>
 <td>Libraries & Frameworks I Use</td>
 <td><img  src='https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg'  alt='react js'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="Redux" height="30" /> <img  src='https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg'  alt='node js'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg'  alt='express js'  width='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'  alt='bootstrap'  height='30'> <img  src='https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg'  alt='tailwind css'  height='30'></td>
