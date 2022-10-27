@@ -16,23 +16,23 @@
 
 <p align="center"> <a href="https://twitter.com/bellsofaba" target="blank"><img src="https://img.shields.io/twitter/follow/bellsofaba?logo=twitter&style=for-the-badge" alt="bellsofaba" /></a> </p>
 
-<p align="center">
+
 
 <p align="center">- 🔭 I’m currently working on **Full stack web applications</p>
 
-- 🌱 I’m currently learning **Web3 solutions, Solidity**
+<p align="center">- 🌱 I’m currently learning **Web3 solutions, Solidity </p>
 
-- 👯 I’m looking to collaborate on **Projects that would fulfill my passions
+<p align="center">- 👯 I’m looking to collaborate on **Projects that would fulfill my passions </p>
 
-- 🤝 I’m looking for help with **Interesting and challenging opportunities
+<p align="center">- 🤝 I’m looking for help with **Interesting and challenging opportunities </p>
 
-- 📝 I regularly write articles on [https://bellsofaba.hashnode.dev/](https://bellsofaba.hashnode.dev/)
+<p align="center">- 📝 I regularly write articles on [https://bellsofaba.hashnode.dev/](https://bellsofaba.hashnode.dev/) </p>
 
-- 💬 Ask me about **React, JavaScript, Blockchain Technology
+<p align="center">- 💬 Ask me about **React, JavaScript, Blockchain Technology </p>
 
-- 📫 How to reach me **Bellsofaba@gmail.com
+<p align="center">- 📫 How to reach me **Bellsofaba@gmail.com </p>
   
-  </p>
+  
 
 
 <!-- BLOG-POST-LIST:START -->
