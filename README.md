@@ -18,7 +18,7 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on **Full stack web applications
+<p align="center">- 🔭 I’m currently working on **Full stack web applications</p>
 
 - 🌱 I’m currently learning **Web3 solutions, Solidity**
 
