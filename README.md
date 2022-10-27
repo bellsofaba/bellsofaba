@@ -68,10 +68,7 @@
 <td>Tools I Use</td>
 <td><img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'  alt='visualstudiocode'  height='30'> <img  src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'  alt='linux'  height='30'> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" title="GitHub" height="30" /> <img  src='https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg'  alt='git'  height='30'></td>
 </tr>
-<tr>
-<td>Designing Tools I Use</td>
-<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" title="Figma" height="30" /> <img  src='https://seeklogo.com/images/A/adobe-photoshop-cc-logo-CBD0AAA3A7-seeklogo.com.png'  alt='adobe photoshop'  height='30'> <img src="https://seeklogo.com/images/A/adobe-premiere-cc-logo-2B72AFF7E6-seeklogo.com.png" alt="adobe premiere pro" height="30" /></td>
-</tr>
+
 </table>
 
 
