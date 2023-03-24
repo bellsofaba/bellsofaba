@@ -26,7 +26,7 @@
 
 <p align="center">- 🤝 I’m looking for help with **Interesting and challenging opportunities </p>
 
-<p align="center">- 📝 I regularly write articles on [https://bellsofaba.hashnode.dev/](https://bellsofaba.hashnode.dev/) </p>
+<p align="center">- 📝 I regularly write articles on https://bellsofaba.hashnode.dev/ & https://bellsofaba.hashnode.dev/ </p>
 
 <p align="center">- 💬 Ask me about **React, JavaScript, Blockchain Technology </p>
 
