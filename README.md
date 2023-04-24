@@ -1,4 +1,12 @@
 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bellsofaba/count.svg" />
+</p>
+<br>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222CE9&center=true&vCenter=true&width=438&lines=Coding.+Debugging.+Snoring.+Loop." alt="Typing SVG" /></a>
 </p>
@@ -39,19 +47,24 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+
 
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
 
-<hr />
+
 
 
 <p  align="center"><!--<img  src="https://github-readme-stats.vercel.app/api?username=bellsofaba&show_icons=true&count_private=true&theme=tokyonight&bg_color=ffffff00&hide_border=true"  alt="GitHub stats" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellsofaba&layout=compact&theme=tokyonight&bg_color=ffffff00&hide_border=true" alt="Top Langs" /><br /><br />--><img src="https://github-readme-streak-stats.herokuapp.com/?user=bellsofaba&theme=tokyonight_duo&hide_border=true" alt="bellsofaba's readme streaks" />
 
 </p>
 
-<hr />
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
 
 
 
@@ -91,3 +104,4 @@
 <a href="https://hashnode.com/https://bellsofaba.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://bellsofaba.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
+<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
