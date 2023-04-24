@@ -54,7 +54,7 @@
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<hr>
 
 
 
@@ -63,7 +63,7 @@
 
 </p>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+<hr>
 
 
 
@@ -95,7 +95,6 @@
 </table>
 
 
-
 <h1  align=center>🤘🏻🥳Don't Be A Stranger, Connect🥳🤘🏻</h1>
 
 <p align="center">
@@ -105,4 +104,8 @@
 <a href="https://hashnode.com/https://bellsofaba.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://bellsofaba.hashnode.dev/" height="30" width="40" /></a>
 </p>
 
-<img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=300%&section=footer"/>
+</p>
+
