@@ -10,19 +10,18 @@
   Welcome to Bellsofaba's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="waving hand" />
 </h3>
-<h3 align="center">My name is Jack, and I'm a Fullstack Developer</h3>
+<h3 align="center">Hi, I'm Jack, a Fullstack Developer who turns ideas into code and data into decisions</h3>
 
 <hr />
 
-<p align="center">🔭 I’m currently working on <b>Fullstack web applications</b></p>
-<p align="center">🌱 I’m currently learning <b>Web3 solutions, Solidity</b></p>
-<p align="center">👯 I’m looking to collaborate on <b>projects that fulfil my passions</b></p>
-<p align="center">🤝 I’m looking for help with <b>interesting and challenging opportunities</b></p>
-<p align="center">📝 I regularly write articles on <a href="https://bellsofaba.hashnode.dev/">Hashnode</a> &amp; <a href="https://dev.to/bellsofaba">DEV</a></p>
-<p align="center">💬 Ask me about <b>React, JavaScript, Blockchain Technology</b></p>
+<p align="center">🔭 I’m currently building <b>fullstack web applications</b> that are fast, clean and made to last</p>
+<p align="center">🌱 I’m currently learning <b>quant AI, Web3 and Solidity</b></p>
+<p align="center">📈 I’m fascinated by <b>the financial markets</b> and how data, models and code can make sense of them</p>
+<p align="center">👯 I’m looking to collaborate on <b>projects where software meets finance and AI</b></p>
+<p align="center">🤝 I’m looking for <b>challenging opportunities</b> that push me to keep growing</p>
+<p align="center">📝 I write about what I learn on <a href="https://bellsofaba.hashnode.dev/">Hashnode</a> &amp; <a href="https://dev.to/bellsofaba">DEV</a></p>
+<p align="center">💬 Ask me about <b>React, JavaScript, blockchain technology</b>, or how I'm breaking into quant</p>
 <p align="center">📫 How to reach me: <a href="mailto:Bellsofaba@gmail.com"><b>Bellsofaba@gmail.com</b></a></p>
-
-<hr />
 
 ### 📰 Latest posts
 
@@ -32,9 +31,8 @@
 <hr />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bellsofaba/bellsofaba/output/github-snake.svg" alt="Snake animation" />
+  <img src="./market.svg" alt="Animated candlestick chart" width="100%" />
 </p>
-
 <hr />
 
 <p align="center">
