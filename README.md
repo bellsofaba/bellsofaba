@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bellsofaba&label=Profile+views&color=222CE9&style=flat" alt="Profile views" />
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=222CE9&center=true&vCenter=true&width=438&lines=Coding.+Debugging.+Snoring.+Loop." alt="Typing SVG" /></a>
